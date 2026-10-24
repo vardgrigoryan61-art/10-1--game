@@ -1,0 +1,34 @@
+Mime-Version: 1.0
+Content-Base: https://online-bloknot.ru/
+Content-Type: Multipart/related; boundary="NEXT.ITEM-BOUNDARY";type="text/html"
+
+--NEXT.ITEM-BOUNDARY
+Content-Type: text/html; charset="utf-8"
+Content-Location: https://online-bloknot.ru/
+
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+xmlns:w="urn:schemas-microsoft-com:office:word" 
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+
+</style>
+</head>
+<body><div style="font-family:Calibri,sans-serif;font-size:11pt;"><p>&lt;!DOCTYPE html&gt;<br>&lt;html lang="hy"&gt;<br>&lt;head&gt;<br>&nbsp; &nbsp; &lt;meta charset="UTF-8"&gt;<br>&nbsp; &nbsp; &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;<br>&nbsp; &nbsp; &lt;title&gt;10 ՄԱՐԶ, 1 ՃԱՆԱՊԱՐՀ&lt;/title&gt;<br>&nbsp; &nbsp; &lt;link rel="stylesheet" href="style.css"&gt;<br>&lt;/head&gt;<br>&lt;body&gt;</p><p>&nbsp; &nbsp; &lt;header&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="logo-badge"&gt;10 ՄԱՐԶ, 1 ՃԱՆԱՊԱՐՀ&lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;Հայաստանի Զբոսաշրջային Էկոհամակարգ&lt;/h1&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;Բացահայտիր 10 մարզերը, անցիր քվեստները և հավաքիր կնիքները&lt;/p&gt;<br>&nbsp; &nbsp; &lt;/header&gt;</p><p>&nbsp; &nbsp; &lt;main&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &lt;section class="passport-status"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="card"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;h3&gt;Ձեր Խաղային Անձնագիր&lt;/h3&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="game-stats-row"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;Բացահայտված մարզեր: &lt;span id="progress-count"&gt;0&lt;/span&gt; / 10&lt;/p&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;⭐ Միավորներ: &lt;span id="score-count"&gt;0&lt;/span&gt;&lt;/p&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="progress-bar"&gt;&lt;div id="progress-fill" style="width: 0%;"&gt;&lt;/div&gt;&lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &lt;/section&gt;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;section class="stats-section"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="stats-card"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;h3&gt;📊 Համայնքային Ակտիվություն&lt;/h3&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="stats-grid"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="stat-item"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;span class="stat-num"&gt;1,420&lt;/span&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;span class="stat-label"&gt;Ընդհանուր մասնակից&lt;/span&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="stat-item"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;span class="stat-num" id="global-stamps"&gt;8,930&lt;/span&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;span class="stat-label"&gt;Տրված կնիքներ&lt;/span&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="stat-item"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;span class="stat-num"&gt;#1&lt;/span&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;span class="stat-label"&gt;Էջմիածնի քվեստ&lt;/span&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &lt;/section&gt;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;section class="regions-grid"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;h2&gt;Ընտրեք Մարզը Քվեստի Համար&lt;/h2&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="grid-container" id="regions-container"&gt;&lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &lt;/section&gt;<br>&nbsp; &nbsp; &lt;/main&gt;</p><p>&nbsp; &nbsp; &lt;!-- Քվեստի Պատուհան --&gt;<br>&nbsp; &nbsp; &lt;div id="modal" class="modal"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="modal-content"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;span class="close-btn" id="close-modal"&gt;&amp;times;&lt;/span&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;h2 id="modal-title"&gt;Մարզի Անուն&lt;/h2&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div id="timer-box" class="timer-box"&gt;⏱️ Մնացած ժամանակ: &lt;span id="time-left"&gt;20&lt;/span&gt;վ&lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;p id="modal-desc" style="line-height: 1.5; color: #cbd5e1;"&gt;&lt;/p&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="quiz-box"&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;h4 id="quiz-question"&gt;Հարց․․․&lt;/h4&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div id="quiz-options"&gt;&lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;<br>&nbsp; &nbsp; &lt;/div&gt;</p><p>&nbsp; &nbsp; &lt;footer&gt;<br>&nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;© 2026 «10 ՄԱՐԶ, 1 ՃԱՆԱՊԱՐՀ» | Նախագիծ Էջմիածնի և Քոլեջի Համար&lt;/p&gt;<br>&nbsp; &nbsp; &lt;/footer&gt;</p><p>&nbsp; &nbsp; &lt;script src="script.js"&gt;&lt;/script&gt;<br>&lt;/body&gt;<br>&lt;/html&gt;</p></div></body></html>
+--NEXT.ITEM-BOUNDARY--
