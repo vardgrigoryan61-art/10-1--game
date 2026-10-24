@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="hy">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10 ՄԱՐԶ, 1 ՃԱՆԱՊԱՐՀ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo-badge">10 ՄԱՐԶ, 1 ՃԱՆԱՊԱՐՀ</div>
+        <h1>Հայաստանի Զբոսաշրջային Էկոհամակարգ</h1>
+        <p>Բացահայտիր 10 մարզերը, անցիր քվեստները և հավաքիր կնիքները</p>
+    </header>
+
+    <main>
+        <section class="passport-status">
+            <div class="card">
+                <h3>Ձեր Խաղային Անձնագիր</h3>
+                <div class="game-stats-row">
+                    <p>Բացահայտված մարզեր: <span id="progress-count">0</span> / 10</p>
+                    <p>⭐ Միավորներ: <span id="score-count">0</span></p>
+                </div>
+                <div class="progress-bar"><div id="progress-fill" style="width: 0%;"></div></div>
+            </div>
+        </section>
+
+        <section class="stats-section">
+            <div class="stats-card">
+                <h3>📊 Համայնքային Ակտիվություն</h3>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <span class="stat-num">1,420</span>
+                        <span class="stat-label">Ընդհանուր մասնակից</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-num" id="global-stamps">8,930</span>
+                        <span class="stat-label">Տրված կնիքներ</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-num">#1</span>
+                        <span class="stat-label">Էջմիածնի քվեստ</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="regions-grid">
+            <h2>Ընտրեք Մարզը Քվեստի Համար</h2>
+            <div class="grid-container" id="regions-container"></div>
+        </section>
+    </main>
+
+    <!-- Քվեստի Պատուհան -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" id="close-modal">&times;</span>
+            <h2 id="modal-title">Մարզի Անուն</h2>
+            <div id="timer-box" class="timer-box">⏱️ Մնացած ժամանակ: <span id="time-left">20</span>վ</div>
+            <p id="modal-desc" style="line-height: 1.5; color: #cbd5e1;"></p>
+            
+            <div class="quiz-box">
+                <h4 id="quiz-question">Հարց․․․</h4>
+                <div id="quiz-options"></div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2026 «10 ՄԱՐԶ, 1 ՃԱՆԱՊԱՐՀ» | Նախագիծ Էջմիածնի և Քոլեջի Համար</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
